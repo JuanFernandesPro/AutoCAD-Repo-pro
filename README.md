@@ -1,4 +1,4 @@
 # AutoCAD Repository projects
  AutoCAD Repository projects
- This is a test
- This is a new test
+
+Description: This repository is owned by Juan Fernandes. This repository shows some of the projects/practices in AutoCAD software made by Juan Fernandes.
